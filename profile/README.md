@@ -1,11 +1,11 @@
-![B-HD™ Gif](B-HD.gif)
+![B-HD® Gif](B-HD.gif)
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Blockchain-Future-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-BW & ACO-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blockchain%20Hyper%20Development%E2%84%A2-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blockchain%20Hyper%20Development®-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made from the -heart-red?style=for-the-badge" />
 </p>
 
@@ -13,7 +13,7 @@
 
 ## 🚀 About Us
 
-B-HD™ is a team of top-notch developers and crypto enthusiasts building **ultra-fast and secure blockchain solutions**.  
+B-HD® is a team of top-notch developers and crypto enthusiasts building **ultra-fast and secure blockchain solutions**.  
 We don’t just code — we’re shaping the future of **DeFi** and **Web3**!
 
 ---
@@ -29,9 +29,9 @@ We don’t just code — we’re shaping the future of **DeFi** and **Web3**!
 
 ## 🔗 Contacts & Resources
 
-- Website: [B-HD™ Website](https://bhd.pp.ua)  
+- Website: [B-HD® Website](https://bhd.pp.ua)  
 - Telegram: [Official Telegram Channel](https://t.me/BHDtm)
-- GitHub: [B-HD™](https://github.com/B-HDtm)  
+- GitHub: [B-HD®](https://github.com/B-HDtm)  
 - Email: markd.voznyuk@gmail.com
 
 ---
@@ -50,4 +50,4 @@ Want to be part of the revolution? Fill out the [form](https://forms.gle/6vG9Ue1
 
 ---
 
-*Powered by B-HD™* ❤️
+*Powered by B-HD®* ❤️
